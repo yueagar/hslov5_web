@@ -1,0 +1,128 @@
+{
+    "PinkGlow": {
+        "name": "Pink Glow",
+        "author": "YueAgar_c",
+        "settings": ["Settings", "Themes"],
+        "bgURL": "https://i.imgur.com/wUCBeox.png",
+        "dataPath": "data/PinkGlow.json"
+    },
+	"Vanilla": {
+        "name": "Vanilla",
+        "author": "YueAgar_c",
+        "settings": ["Settings", "Themes"],
+        "bgURL": "https://i.imgur.com/3pbcvA6.png",
+        "dataPath": "data/Vanilla.json"
+    },
+	"BlueGlow": {
+        "name": "Blue Glow",
+        "author": "Grandson",
+        "settings": ["Settings", "Themes"],
+        "bgURL": "https://i.imgur.com/OhbA1e4.png",
+        "dataPath": "data/BlueGlow.json"
+    },
+	"NightRose": {
+        "name": "Night Rose",
+        "author": "ejtea7",
+        "settings": ["Settings", "Themes"],
+        "bgURL": "https://i.imgur.com/w6SH6bX.png",
+        "dataPath": "data/NightRose.json"
+    },
+	"AquaGold": {
+        "name": "Aqua Gold",
+        "author": "ejtea7",
+        "settings": ["Settings", "Themes"],
+        "bgURL": "https://i.imgur.com/TmCeCrg.png",
+        "dataPath": "data/AquaGold.json"
+    },
+	"SnowyParadise": {
+        "name": "Snowy Paradise",
+        "author": "ejtea7",
+        "settings": ["Settings", "Themes"],
+        "bgURL": "https://i.imgur.com/lHPrddY.png",
+        "dataPath": "data/SnowyParadise.json"
+    },
+	"BlueFire": {
+        "name": "Blue Fire",
+        "author": "ejtea7",
+        "settings": ["Settings", "Themes"],
+        "bgURL": "https://i.imgur.com/HaXf8xc.png",
+        "dataPath": "data/BlueFire.json"
+    },
+	"GoldTwilight": {
+        "name": "Gold Twilight",
+        "author": "Redz",
+        "settings": ["Settings", "Themes"],
+        "bgURL": "https://i.imgur.com/BJrivtK.png",
+        "dataPath": "data/GoldTwilight.json"
+    },
+	"XmasRed": {
+        "name": "Xmas Red",
+        "author": "ejtea7",
+        "settings": ["Settings", "Themes"],
+        "bgURL": "https://i.imgur.com/W3thI9x.png",
+        "dataPath": "data/XmasRed.json"
+    },
+	"XmasBlue": {
+        "name": "Xmas Blue",
+        "author": "ejtea7",
+        "settings": ["Settings", "Themes"],
+        "bgURL": "https://i.imgur.com/eAQz5Vp.png",
+        "dataPath": "data/XmasBlue.json"
+    },
+	"Sadness": {
+        "name": "Sadness",
+        "author": "Redz",
+        "settings": ["Settings", "Themes"],
+        "bgURL": "https://i.imgur.com/ue6dVwS.png",
+        "dataPath": "data/Sadness.json"
+    },
+	"Meteor": {
+        "name": "Meteor",
+        "author": "Redz",
+        "settings": ["Settings", "Themes"],
+        "bgURL": "https://i.imgur.com/vXVmdtz.png",
+        "dataPath": "data/Meteor.json"
+    },
+	"Colorless": {
+		"name": "Colorless",
+		"author": "ejtea7",
+		"settings": ["Themes"],
+		"bgURL": "https://i.imgur.com/LEQN2rK.png",
+		"dataPath": "data/Colorless.json"
+	},
+	"Coronavirus": {
+		"name": "Coronavirus",
+		"author": "YueAgar_c",
+		"settings": ["Settings", "Themes"],
+		"bgURL": "https://i.imgur.com/Ac0ODpF.png",
+		"dataPath": "data/Coronavirus.json"
+	},
+	"TheWay": {
+		"name": "The Way",
+		"author": "Redz",
+		"settings": ["Themes"],
+		"bgURL": "https://i.imgur.com/DnV09Qq.png",
+		"dataPath": "data/TheWay.json"
+	},
+	"SimpleBlue": {
+		"name": "Simple Blue",
+		"author": "Vidra",
+		"settings": ["Settings", "Themes"],
+		"bgURL": "https://i.imgur.com/rkxc3CF.png",
+		"dataPath": "data/SimpleBlue.json"
+	},
+	"FlyingLanterns": {
+		"name": "Flying Lanterns",
+		"author": "gmtan",
+		"settings": ["Settings", "Themes"],
+		"bgURL": "https://i.imgur.com/3bVrLNF.png",
+		"dataPath": "data/FlyingLanterns.json"
+	},
+    "USSR": {
+        "name": "USSR",
+        "author": "Lenin",
+        "settings": ["Settings", "Themes"],
+        "bgURL": "https://i.imgur.com/xbAfjD2.png",
+        "dataPath": "data/empty.json"
+    }
+}

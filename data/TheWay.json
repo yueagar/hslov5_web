@@ -1,0 +1,32 @@
+{
+  "theme": {
+    "multiboxInactive": "#ffffff",
+    "multiboxActive": "#0077ff",
+    "multiboxRingWidth": 10,
+    "maouCircleSkinURL": "https://i.imgur.com/o2lh1Xh.png",
+    "globalRotationSpeed": 3,
+    "multiboxShieldURL": "https://i.imgur.com/0WwnSw9.png",
+    "backgroundColor": "#000d1a",
+    "everyoneSkinsURL": "https://i.imgur.com/QgE3sLk.png",
+    "customBG": "https://i.imgur.com/mcWBv8R.png",
+    "borderColor": "#ffffff",
+    "borderGlowStrength": 4,
+    "foodColor": "#ffffff",
+    "foodGlow": "#19c9ff",
+    "foodGlowStrength": 7,
+    "foodGlowSize": 90,
+    "virusColor": "#000000",
+    "virusGlow": "#ffffff",
+    "virusBorderColor": "#ffffff",
+    "virusGlowStrength": 9,
+    "virusGlowSize": 65,
+    "borderGlow": "#ffffff",
+    "borderGlowSize": 160,
+    "borderWidth": 18,
+    "virusBorderWidth": 9,
+    "lbColor": "#ffffff",
+    "commanderColor": "#ffffff",
+    "cursor": 9,
+    "foodSize": 3
+  }
+}

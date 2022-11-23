@@ -1,0 +1,244 @@
+/* Wow Bro! look at this neat CSS! <3 Time to steal it and claim it as mine!! */
+
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 0;
+    margin: 0;
+    /*overflow: hidden;*/
+}
+
+body {
+	color: white;
+}
+
+#bg {
+    top: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url("https://i.imgur.com/Mqp3i1v.png");
+    filter: blur(8px);
+    -webkit-filter: blur(8px);
+    background-position: center;
+    background-repeat: no-repeat;
+	background-size: cover;
+	background-color: grey;
+    background-attachment: fixed;
+    z-index: 1;
+}
+
+#darker {
+    top: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+    filter: brightness(50%);
+    -webkit-filter: brightness(50%);
+    z-index: 2;
+}
+
+#nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+    width: 100%;
+    height: 90px;
+    font-size: 36px;
+	z-index: 1001;
+}
+
+.navOptions {
+	cursor: inherit;
+    width: 200px;
+    height: 50px;
+    right: 0px;
+    padding: 20px;
+    text-align: center;
+    transition: background-color 0.5s;
+}
+
+.navOptions:hover {
+	cursor: pointer;
+    background-color: rgba(255, 255, 255, 0.5);
+}
+
+.active {
+    border-bottom: 5px solid white;
+    /*text-shadow: 0 0 10px #ffffff, 0 0 15px #eeeeee, 0 0 20px #dddddd;*/
+}
+
+.container {
+    top: 0;
+    position: absolute;
+    display: block;
+    z-index: 999;
+    transition: opacity 0.5s;
+}
+
+#introNav, #themesNav {
+    display: inline;
+}
+
+.heading {
+    font-family: "Times New Roman";
+    font-size: 72px;
+    margin-bottom: 10px;
+}
+
+.bigPara {
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+
+.para {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+#install {
+    cursor: inherit;
+    color: white;
+    background-color: red;
+    height: 50px;
+    width: 220px;
+    border-radius: 20px;
+    border: none;
+    font-size: 24px;
+    margin: 20px;
+    transition: font-size 0.5s;
+}
+
+#install:hover {
+    cursor: pointer;
+    font-size: 32px;
+}
+
+#install:focus {
+    outline: 0;
+}
+
+#install:disabled {
+    background-color: grey;
+}
+
+div.divider {
+    display: inline-block;
+    width: 500px;
+    height: 1px;
+    margin: 10px;
+    background-color: white;
+}
+
+#introContainer, #themesContainer {
+    width: 100%;
+    text-align: center;
+}
+
+#introContainer {
+    left: 50%;
+    top: 50%;
+    transform: translateX(-50%) translateY(-50%);
+}
+
+#themesContainer {
+    left: 50%;
+    top: 69px;
+    height: 90%;
+    transform: translateX(-50%);
+}
+
+#themeBoxes {
+    top: 21%;
+    bottom: 0;
+    width: 100%;
+    height: 75%;
+    position: fixed;
+    overflow-x: hidden;
+    overflow-y: scroll;
+}
+
+.themeBox {
+    cursor: pointer;
+    text-align: left;
+    display: inline-block;
+    margin: 10px;
+    width: 300px;
+    height: 300px;
+    border: 5px solid white;
+    background-color: black;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.themeIntroDIV {
+    display: inline-block;
+    background-color: black;
+    margin: 2px;
+    padding-top: 4px;
+}
+
+.themeIntro {
+    margin-left: 4px;
+    padding-right: 4px;
+}
+
+#themeIntroBox {
+    visibility: hidden;
+    opacity: 0;
+    position: fixed;
+    color: black;
+    border-radius: 20px;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    width: 700px;
+    height: 400px;
+    background-color: white;
+    border: 5px solid white;
+    transition: opacity 0.5s;
+}
+
+#themeIntroBG {
+    position: absolute;
+    bottom: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 500px;
+    height: 250px;
+    background-color: white;
+    background-size: cover;
+	background-position: center;
+    background-repeat: no-repeat;
+    overflow: hidden;
+}
+
+#themeIntroDL {
+    cursor: pointer;
+    position: absolute;
+    right: 5px;
+    bottom: 5px;
+    margin-bottom: 0 !important;
+}
+
+#themeIntroClose {
+    cursor: pointer;
+    position: absolute;
+    right: 5px;
+    top: 5px;
+    margin-bottom: 0 !important;
+}
+
+p {
+    margin-bottom: 10px;
+}
+
+a#youtubeNav {
+    color: white;
+    text-decoration: none;
+}
+
+a {
+    color: white;
+}
