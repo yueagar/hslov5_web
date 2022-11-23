@@ -1,5 +1,3 @@
-// Wow Bro! look at this neat JavaScript! <3 Time to steal it and claim it as mine!!
-
 ((w, d, $) => {
     const UI = new class {
         constructor() {
